@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.2.0](https://git.habd.as/comfusion/after-dark/compare/v8.1.0...v8.2.0) (2019-07-18)
+
+
+### Bug Fixes
+
+* **assets/css:** prevent ie10+ scrollbar from causing layout to jump ([105356f](https://git.habd.as/comfusion/after-dark/commit/105356f)), closes [#144](https://git.habd.as/comfusion/after-dark/issues/144)
+* **bin/install:** resolve shellcheck warns for improved portability ([67a080f](https://git.habd.as/comfusion/after-dark/commit/67a080f)), closes [#154](https://git.habd.as/comfusion/after-dark/issues/154)
+
+
+### Features
+
+* **feature/fuzzy-search:** add app init loading indicator and noscript experience ([da82ae2](https://git.habd.as/comfusion/after-dark/commit/da82ae2)), closes [#143](https://git.habd.as/comfusion/after-dark/issues/143)
+
+
+
 ## [8.1.0](https://git.habd.as/comfusion/after-dark/compare/v8.0.2...v8.1.0) (2019-07-12)
 
 
