@@ -127,7 +127,7 @@ Use [Online Help](https://after-dark.habd.as/feature/online-help/) to learn how 
 
 ## Credits
 
-Special thanks to エゴイスト for [hackcss](https://git.habd.as/comfusion/hack), Dan Klammer for the [bytesize icons](https://git.habd.as/comfusion/bytesize-icons) and Vincent Prouillet for the [Zola port](https://www.getzola.org/themes/after-dark/).
+Special thanks to エゴイスト for [hackcss](https://git.habd.as/jhabdas/hack), Dan Klammer for the [bytesize icons](https://git.habd.as/comfusion/bytesize-icons) and Vincent Prouillet for the [Zola port](https://www.getzola.org/themes/after-dark/).
 
 ## Rights
 
