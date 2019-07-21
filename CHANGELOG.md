@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.3.1](https://git.habd.as/comfusion/after-dark/compare/v8.3.0...v8.3.1) (2019-07-21)
+
+
+### Bug Fixes
+
+* **bin/upgrade:** properly detect current theme version, if present ([59cebcb](https://git.habd.as/comfusion/after-dark/commit/59cebcb))
+
+
+
 ## [8.3.0](https://git.habd.as/comfusion/after-dark/compare/v8.2.0...v8.3.0) (2019-07-21)
 
 
