@@ -2,7 +2,7 @@
 title = "After Dark"
 description = "After Dark is free and open-source software you can use to create a website, blog or app."
 images = [
-  "https://after-dark.habd.as/images/screenshots/example-landing-page-fs8.png"
+  "https://after-dark.habd.as/images/screenshots/after-dark-v6.15.0-homepage-fs8.png"
 ]
 [[copyright]]
   owner = "Josh Habdas"
