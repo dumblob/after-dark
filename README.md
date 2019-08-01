@@ -22,15 +22,16 @@ wget -qO - https://go.habd.as/after-dark | sh
 
 ## Features
 
-- **[Streamlined Workflow](https://after-dark.habd.as/#feature-workflow)**: Cross-platform, 1 dependency, single-codebase.
+- **[Developer Focused](https://after-dark.habd.as/#feature-workflow)**: Cross-platform, 1 dependency, single-codebase.
 - **[Incredibly Fast](https://after-dark.habd.as/#feature-speed)**: ~0.615s builds and decisecond page loads.
-- **[Privacy Focused](https://after-dark.habd.as/#feature-privacy)**: No cookies, no external requests, ephemeral hosting.
+- **[Privacy Aware](https://after-dark.habd.as/#feature-privacy)**: No cookies, no external requests, ephemeral hosting.
 - **[Advanced Graphics](https://after-dark.habd.as/#feature-graphics)**: Silky-smooth post and homepage images.
 - **[Easily Customized](https://after-dark.habd.as/#feature-customize)**: Easily modify website look-and-feel.
 - **[Fuzzy Search](https://after-dark.habd.as/#feature-search)**: Offline, automatic and no third-parties.
 - **[Rewards System](https://after-dark.habd.as/#feature-rewards)**: Earn rewards for keeping your software up-to-date.
 - **[Securely Designed](https://after-dark.habd.as/#feature-security)**: Source-level integrity, content security and more.
 - **[Batteries Included](https://after-dark.habd.as/#feature-extras)**: Integrate with Gitea, k8s, Traefik and Fathom.
+- **[Extended Builds](https://after-dark.habd.as/#feature-builds)**: Create high-performance Hugo builds with integrated Sass support.
 
 ## Demo
 
@@ -92,6 +93,12 @@ Please [Install Hugo](https://gohugo.io/getting-started/installing) `0.44` or gr
 
 ### Installation
 
+One command is all you need to start a new website:
+
+```sh
+wget -qO - https://go.habd.as/after-dark | sh
+```
+
 For fastest installation use the provided [Quick Install](https://after-dark.habd.as/feature/quick-install/) script. Quick Install is ideal for first-time users and does not require use of git. Use it to automatically set-up, configure and run a sample After Dark website you may re-purpose as your own.
 
 By convention After Dark may be used with an existing Hugo site by git cloning to or adding as a submodule of the `themes` directory:
@@ -107,6 +114,10 @@ See [Install a Single Theme](https://gohugo.io/themes/installing-and-using-theme
 
 After Dark also ships [as an NPM module](https://www.npmjs.com/package/after-dark) as a convenience for users. Use it to integrate After Dark into an existing publishing workflow.
 
+### Usage
+
+Use [Online Help](https://after-dark.habd.as/feature/online-help/) to learn how to set-up and use After Dark. Help docs may be served locally and do not require an Internet connection to function.
+
 ### Upgrading
 
 Run the [Upgrade Script](https://after-dark.habd.as/feature/upgrade-script/) to check for updates and upgrade automatically:
@@ -120,10 +131,6 @@ Upgrading replaces the file contents of the theme as a whole.
 ### Verifying
 
 If installed or upgraded via script you may use the [Release Validator](https://after-dark.habd.as/validate/) to verify you're running a PGP-signed and SHA-verified release. Integrity is checked at the source level and may be performed offline. See [Release Hashes](https://after-dark.habd.as/feature/release-hashes/) for more info.
-
-### Usage
-
-Use [Online Help](https://after-dark.habd.as/feature/online-help/) to learn how to set-up and use After Dark. Help docs may be served locally and do not require an Internet connection to function.
 
 ## Credits
 

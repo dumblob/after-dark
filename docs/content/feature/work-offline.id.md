@@ -1,9 +1,12 @@
 +++
-title = "Air Gapping"
+title = "Work Offline"
 description = "Membangun dan menjalankan seluruh situs anda tanpa akses internet."
 categories = ["security"]
 tags = ["privacy", "networking"]
 feature = ["related content"]
+aliases = [
+  "/feature/air-gapping"
+]
 [[copyright]]
   owner = "Josh Habdas"
   date = "2019"
