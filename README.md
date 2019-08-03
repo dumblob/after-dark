@@ -4,7 +4,7 @@
   width="358">
 
 **Hugo Dark Theme Website Generator**
-<br>[Documentation](https://after-dark.habd.as) • [Releases](https://git.habd.as/comfusion/after-dark/releases) • [Community](https://t.me/afterdarkhugo)
+<br>[Docs](https://after-dark.habd.as) • [Releases](https://git.habd.as/comfusion/after-dark/releases) • [Community](https://t.me/afterdarkhugo)
 
 ## After Dark
 
@@ -22,6 +22,8 @@ wget -qO - https://go.habd.as/after-dark | sh
 
 ## Features
 
+Click a link below to learn more:
+
 - **[Developer Focused](https://after-dark.habd.as/#feature-workflow)**: Cross-platform, 1 dependency, single-codebase.
 - **[Incredibly Fast](https://after-dark.habd.as/#feature-speed)**: ~0.615s builds and decisecond page loads.
 - **[Privacy Aware](https://after-dark.habd.as/#feature-privacy)**: No cookies, no external requests, ephemeral hosting.
@@ -35,61 +37,11 @@ wget -qO - https://go.habd.as/after-dark | sh
 
 ## Demo
 
-Click a screenshot for a live demo of the functionality:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://after-dark.habd.as/">
-        <img alt src="https://after-dark.habd.as/images/screenshots/after-dark-v6.15.0-homepage-fs8.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://after-dark.habd.as/feature/svg-favicon/">
-        <img alt src="https://after-dark.habd.as/images/screenshots/feature-online-help-fs8.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://after-dark.habd.as/404.html">
-        <img alt src="https://after-dark.habd.as/images/screenshots/feature-error-page-fs8.png">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th scope="col"><center>Help Docs</center></th>
-    <th scope="col"><center>SVG Favicon</center></th>
-    <th scope="col"><center>404 Page</center></th>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://after-dark.habd.as/module/toxic-swamp/">
-        <img alt src="https://after-dark.habd.as/images/screenshots/module-toxic-swamp-fs8.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://after-dark.habd.as/shortcode/button/">
-        <img alt src="https://after-dark.habd.as/images/screenshots/shortcode-button-fs8.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://after-dark.habd.as/extra/high-tea/">
-        <img alt src="https://after-dark.habd.as/images/screenshots/extra-high-tea-fs8.png">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th scope="col"><center>Add-on Modules</center></th>
-    <th scope="col"><center>Form Controls</center></th>
-    <th scope="col"><center>IndieWeb Extras</center></th>
-  </tr>
-</table>
+Visit the [official docs](https://after-dark.habd.as) for demo and documentation. For an example site see [habd.as](https://habd.as). Additional examples listed in the source repository Wiki.
 
 ## Getting Started
 
-Please [Install Hugo](https://gohugo.io/getting-started/installing) `0.44` or greater on your machine prior to installation unless you're starting with [After Dark K3s](https://after-dark.habd.as/extra/after-dark-k3s).
+[Install Hugo](https://gohugo.io/getting-started/installing) `0.44` or greater on your machine before getting started or unless you're creating an [Extended Build](https://after-dark.habd.as/#feature-builds) or starting with [After Dark K3s](https://after-dark.habd.as/extra/after-dark-k3s).
 
 ### Installation
 
@@ -112,11 +64,11 @@ flying-toasters
 
 See [Install a Single Theme](https://gohugo.io/themes/installing-and-using-themes/#install-a-single-theme) on the Hugo docs site for further instructions.
 
-After Dark also ships [as an NPM module](https://www.npmjs.com/package/after-dark) as a convenience for users. Use it to integrate After Dark into an existing publishing workflow.
+After Dark releases are tagged in git and [packaged on NPM](https://www.npmjs.com/package/after-dark). Use the NPM package to integrate After Dark into existing workflows.
 
 ### Usage
 
-Use [Online Help](https://after-dark.habd.as/feature/online-help/) to learn how to set-up and use After Dark. Help docs may be served locally and do not require an Internet connection to function.
+Review the [Online Help](https://after-dark.habd.as/feature/online-help/) to learn how to set-up and customize After Dark. Docs included with installation and may be served locally.
 
 ### Upgrading
 
@@ -126,7 +78,7 @@ Run the [Upgrade Script](https://after-dark.habd.as/feature/upgrade-script/) to 
 ./themes/after-dark/bin/upgrade
 ```
 
-Upgrading replaces the file contents of the theme as a whole.
+Upgrading replaces the file contents of the theme as a whole for security reasons. If you wish to modify the source please create a fork.
 
 ### Verifying
 
