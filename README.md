@@ -25,11 +25,11 @@ wget -qO - https://go.habd.as/after-dark | sh
 - **[Developer Focused](https://after-dark.habd.as/#feature-workflow)**: Cross-platform, 1 dependency, single-codebase.
 - **[Incredibly Fast](https://after-dark.habd.as/#feature-speed)**: ~0.615s builds and decisecond page loads.
 - **[Privacy Aware](https://after-dark.habd.as/#feature-privacy)**: No cookies, no external requests, ephemeral hosting.
+- **[Securely Designed](https://after-dark.habd.as/#feature-security)**: Source-level integrity, content security and more.
 - **[Advanced Graphics](https://after-dark.habd.as/#feature-graphics)**: Silky-smooth post and homepage images.
 - **[Easily Customized](https://after-dark.habd.as/#feature-customize)**: Easily modify website look-and-feel.
 - **[Fuzzy Search](https://after-dark.habd.as/#feature-search)**: Offline, automatic and no third-parties.
 - **[Rewards System](https://after-dark.habd.as/#feature-rewards)**: Earn rewards for keeping your software up-to-date.
-- **[Securely Designed](https://after-dark.habd.as/#feature-security)**: Source-level integrity, content security and more.
 - **[Batteries Included](https://after-dark.habd.as/#feature-extras)**: Integrate with Gitea, k8s, Traefik and Fathom.
 - **[Extended Builds](https://after-dark.habd.as/#feature-builds)**: Create high-performance Hugo builds with integrated Sass support.
 
