@@ -3,7 +3,7 @@
   src="https://git.habd.as/comfusion/after-dark/raw/branch/master/static/images/logo-dark.png"
   width="358">
 
-**Hugo Dark Theme Generator**
+**Hugo Dark Theme Website Generator**
 <br>[Docs](https://after-dark.habd.as) • [Releases](https://git.habd.as/comfusion/after-dark/releases) • [Community](https://t.me/afterdarkhugo)
 
 ## After Dark
