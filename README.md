@@ -10,7 +10,7 @@
 
 [![Latest NPM version](https://img.shields.io/npm/v/after-dark.svg?style=flat-square)](https://www.npmjs.com/package/after-dark)
 [![Monthly downloads](https://img.shields.io/npm/dm/after-dark.svg?style=flat-square)](https://www.npmjs.com/package/after-dark)
-[![Minimum Hugo version](https://img.shields.io/badge/hugo->%3D%200.44-FF4088.svg?style=flat-square)](https://gohugo.io)
+[![Minimum Hugo version](https://img.shields.io/badge/hugo->%3D%200.51-FF4088.svg?style=flat-square)](https://gohugo.io)
 [![IRC chat](https://img.shields.io/badge/irc-%23after--dark-32AFED.svg?style=flat-square&longCache=true)](https://after-dark.habd.as/#chat)
 [![AGPL licensed](https://img.shields.io/npm/l/after-dark.svg?style=flat-square&longCache=true)](https://git.habd.as/comfusion/after-dark/src/branch/master/COPYING)
 
@@ -47,7 +47,7 @@ Visit the [official docs](https://after-dark.habd.as) for demo and documentation
 
 ## Getting Started
 
-[Install Hugo](https://gohugo.io/getting-started/installing) `0.44` or greater on your machine before getting started or unless you're creating an [Extended Build](https://after-dark.habd.as/#feature-builds) or starting with [After Dark K3s](https://after-dark.habd.as/extra/after-dark-k3s).
+[Install Hugo](https://gohugo.io/getting-started/installing) `0.51` or greater on your machine before getting started unless starting with [After Dark K3s](https://after-dark.habd.as/extra/after-dark-k3s) or creating an [Extended Build](https://after-dark.habd.as/#feature-builds).
 
 ### Installation
 

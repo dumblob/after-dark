@@ -23,4 +23,7 @@ Use it to manage organizations, create pull mirrors, selectively mark private re
 
 High Tea also provides a Traefik integration so you can manage web services, monitor traffic and inspect service health in real-time.
 
-**Repository:** {{< external "https://git.habd.as/comfusion/high-tea" />}}
+---
+
+- {{< external "https://git.habd.as/comfusion/high-tea" />}} -- source
+- {{< external "https://after-dark.habd.as/extra/high-tea/" />}} -- website
