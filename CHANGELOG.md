@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.1.0](https://git.habd.as/comfusion/after-dark/compare/v9.0.0...v9.1.0) (2019-08-21)
+
+
+### Bug Fixes
+
+* **feature/featured-posts:** default featured pages to empty slice when not defined ([785b403](https://git.habd.as/comfusion/after-dark/commit/785b403)), closes [#173](https://git.habd.as/comfusion/after-dark/issues/173)
+
+
+### Build System
+
+* **docker/hugo:** bump to 0.57.0 ([e090ab2](https://git.habd.as/comfusion/after-dark/commit/e090ab2))
+
+
+### Features
+
+* **feature/code-analysis:** add source build of htmltest ([1cd1d6c](https://git.habd.as/comfusion/after-dark/commit/1cd1d6c)), closes [#124](https://git.habd.as/comfusion/after-dark/issues/124) [#165](https://git.habd.as/comfusion/after-dark/issues/165)
+
+
+
 ## [9.0.0](https://git.habd.as/comfusion/after-dark/compare/v8.3.3...v9.0.0) (2019-08-12)
 
 
