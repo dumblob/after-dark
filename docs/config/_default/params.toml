@@ -40,7 +40,7 @@ images = [
     "data:"
   ]
   mediaSrc = [
-    "https://jhabdas.keybase.pub"
+    "https://*.habd.as"
   ]
   imgSrc = [
     "'self'",

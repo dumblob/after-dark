@@ -18,10 +18,7 @@ features = ["related content", "snippets", "section menu"]
 ## Demo
 
 {{< hackcss-alert >}}
-  <video controls preload="auto" width="100%">
-    <source src="https://jhabdas.keybase.pub/after-dark-hall-of-mirrors-demo.mp4" type="video/mp4">
-    <p>Your browser doesn't support HTML5 video. Here is a <a href="https://jhabdas.keybase.pub/after-dark-hall-of-mirrors-demo.mp4">link to the video</a> instead.</p>
-  </video>
+  {{< video controls="true" preload="auto" src="https://habd.as/code/after-dark/assets/after-dark-hall-of-mirrors-demo.mp4" width="100%" >}}
 {{< /hackcss-alert >}}
 
 ## Installation
