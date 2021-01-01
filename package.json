@@ -13,7 +13,7 @@
   "homepage": "https://after-dark.habd.as",
   "repository": {
     "type": "git",
-    "url": "https://git.habd.as/comfusion/after-dark.git"
+    "url": "https://code.habd.as/comfusion/after-dark.git"
   },
   "standard-version": {
     "scripts": {
