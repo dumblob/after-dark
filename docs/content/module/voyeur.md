@@ -12,8 +12,8 @@ features = ["related content", "snippets", "section menu"]
   license = "agpl-3.0-or-later"
 +++
 
-**Fathom Mirror:** {{< external "https://git.habd.as/comfusion/fathom" />}}<br>
-**Module Source:** {{< external "https://git.habd.as/comfusion/voyeur" />}}
+**Fathom Mirror:** {{< external "https://code.habd.as/mirrors/fathom" />}}<br>
+**Module Source:** {{< external "https://code.habd.as/comfusion/voyeur" />}}
 
 {{< figure alt="After Dark screenshots"
   src="/images/screenshots/module-voyeur-analytics-fs8.png"
@@ -28,7 +28,7 @@ Choose module download source:
 
 - {{< external "https://www.npmjs.com/package/mod-voyeur" />}}
 - {{< external "https://www.jsdelivr.com/package/npm/mod-voyeur" />}}
-- {{< external "https://git.habd.as/comfusion/voyeur" />}}
+- {{< external "https://code.habd.as/comfusion/voyeur" />}}
 
 Extract module contents into site `themes` directory:
 
@@ -49,4 +49,4 @@ theme = [
 ]
 {{< /highlight >}}
 
-See {{< external href="https://git.habd.as/comfusion/voyeur/src/branch/master/README.md" text="README.md" />}} to confirm you're using the minimum required version of After Dark; and module setup, configuration and usage instructions. If you need help you may {{< external href="https://git.habd.as/comfusion/voyeur/issues" text="Submit an Issue" />}} with your question.
+See {{< external href="https://code.habd.as/comfusion/voyeur/src/branch/trunk/README.md" text="README.md" />}} to confirm you're using the minimum required version of After Dark; and module setup, configuration and usage instructions. If you need help you may {{< external href="https://code.habd.as/comfusion/voyeur/issues" text="Submit an Issue" />}} with your question.

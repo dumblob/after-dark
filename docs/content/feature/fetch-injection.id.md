@@ -10,7 +10,7 @@ feature = ["snippets", "related content", "code highlighter"]
   license = "agpl-3.0-or-later"
 +++
 
-After Dark menggunakan {{< external rel="external help" href="https://git.habd.as/jhabdas/fetch-inject" text="Fetch Inject" />}} pustaka untuk memuat dan menjalankan skrip dan gaya ekesternal lebih cepat dari yang dapat dilakukan browser.
+After Dark menggunakan {{< external rel="external help" href="https://code.habd.as/jhabdas/fetch-inject" text="Fetch Inject" />}} pustaka untuk memuat dan menjalankan skrip dan gaya ekesternal lebih cepat dari yang dapat dilakukan browser.
 
 {{< external href="https://hackcabin.com/post/managing-async-dependencies-javascript/" text="Fetch Injection" />}} terkonsep dan dikembangkan untuk After Dark agar memungkinkan tautan dalam ke ukuran penuh [Galeri Gambar](/module/hall-of-mirrors) gambar tanpa memblokir pemuatan halaman dan memilki kinerja aplikasi lainnya:
 

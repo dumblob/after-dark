@@ -22,7 +22,7 @@ After Dark termasuk skrip instalasi portabel untuk pengaturan cepat. Silahkan in
 {{< highlight shell "linenos=inline" >}}
 {{< include "themes/after-dark/bin/install" >}}
 {{< /highlight >}}
-<link itemprop="codeRepository" href="https://git.habd.as/comfusion/after-dark">
+<link itemprop="codeRepository" href="https://code.habd.as/comfusion/after-dark">
 <meta itemprop="codeSampleType" content="script">
 <meta itemprop="programmingLanguage" content="sh">
 <meta itemprop="runtimePlatform" content="busybox">
@@ -55,7 +55,7 @@ chmod +x install && ./install{{< /highlight >}}
 3. Dari kanonik `git` klon:
 
     {{< hackcss-alert >}}
-    {{< highlight shell >}}# sumber klon dan ubah ke direktori sumber git klon https://git.habd.as/comfusion/after-dark.git && cd "$_"
+    {{< highlight shell >}}# sumber klon dan ubah ke direktori sumber git klon https://code.habd.as/comfusion/after-dark.git && cd "$_"
 
 # gunakan npm cli untuk mendapatkan hash rilis
 echo "${$(npm run integrity)#*sha512-}"

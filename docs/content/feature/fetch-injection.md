@@ -10,7 +10,7 @@ features = ["snippets", "related content", "code highlighter"]
   license = "agpl-3.0-or-later"
 +++
 
-After Dark uses the {{< external rel="external help" href="https://git.habd.as/jhabdas/fetch-inject" text="Fetch Inject" />}} library to load and execute external scripts and styles faster than browsers are capable of otherwise.
+After Dark uses the {{< external rel="external help" href="https://code.habd.as/jhabdas/fetch-inject" text="Fetch Inject" />}} library to load and execute external scripts and styles faster than browsers are capable of otherwise.
 
 {{< external href="https://hackcabin.com/post/managing-async-dependencies-javascript/" text="Fetch Injection" />}} was conceptualized and developed for After Dark to make it possible to deep-link to full-sized [Image Gallery](/module/hall-of-mirrors) images without blocking page load and has other performance applications:
 

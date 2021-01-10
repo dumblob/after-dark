@@ -25,5 +25,5 @@ High Tea also provides a Traefik integration so you can manage web services, mon
 
 ---
 
-- {{< external "https://git.habd.as/comfusion/high-tea" />}} -- source
+- {{< external "https://code.habd.as/comfusion/high-tea" />}} -- source
 - {{< external "https://after-dark.habd.as/extra/high-tea/" />}} -- website

@@ -1,7 +1,7 @@
 {
   "name": "after-dark",
   "version": "9.2.3",
-  "description": "Hugo Dark Theme Site Generator",
+  "description": "Semantic Personal Publishing Platform",
   "author": "Josh Habdas <jhabdas@protonmail.com> (https://habd.as)",
   "keywords": [
     "hugo",
@@ -13,7 +13,7 @@
   "homepage": "https://after-dark.habd.as",
   "repository": {
     "type": "git",
-    "url": "https://git.habd.as/comfusion/after-dark.git"
+    "url": "https://code.habd.as/comfusion/after-dark.git"
   },
   "standard-version": {
     "scripts": {

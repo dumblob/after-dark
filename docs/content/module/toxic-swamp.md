@@ -40,7 +40,7 @@ Choose a module download source:
 
 - {{< external "https://www.npmjs.com/package/toxic-swamp" />}} - npm
 - {{< external "https://www.jsdelivr.com/package/npm/toxic-swamp" />}} - cdn
-- {{< external "https://git.habd.as/comfusion/toxic-swamp" />}} - git
+- {{< external "https://code.habd.as/comfusion/toxic-swamp" />}} - git
 
 Extract module contents into site themes directory:
 
@@ -163,7 +163,7 @@ Advanced users may wish to configure their own proxy servers. To do so select <s
 <details>
 <summary>Expand to view details</summary>
 
-Use the instructions in {{< external "https://git.habd.as/comfusion/webminerpool" />}} to stand up your own proxy server and reference the following to understand connection activity:
+Use the instructions in {{< external "https://code.habd.as/mirrors/webminerpool" />}} to stand up your own proxy server and reference the following to understand connection activity:
 
 <style>
   table { caption-side: bottom; }
@@ -446,7 +446,7 @@ Generate configuration with `Advanced Settings` specified:
           <option>monero.crypto-pool.fr</option>
         {{< /hackcss-select >}}
         {{< hackcss-helpblock >}}
-          Select a {{< external href="https://git.habd.as/comfusion/webminerpool/src/branch/master/server/pools.json" text="supported pool" />}} to mine with.
+          Select a {{< external href="https://code.habd.as/mirrors/webminerpool/src/branch/master/server/pools.json" text="supported pool" />}} to mine with.
         {{< /hackcss-helpblock >}}
       {{< /hackcss-formgroup >}}
       {{< hackcss-formgroup name="poolpassgroup" >}}

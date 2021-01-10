@@ -66,7 +66,7 @@ touch data/modules/toxic_swamp/proxies.toml
 {{< /highlight >}}
   {{< /hackcss-card >}}
 
-  <p>Contact your pool admin for help configuring your proxy for their pool or {{< external href="https://git.habd.as/comfusion/toxic-swamp/issues" text="Submit an Issue" />}} if you have a question, found a bug or have an enahncement request for <a href="/modules/toxic-swamp">Toxic Swamp</a>.</p>
+  <p>Contact your pool admin for help configuring your proxy for their pool or {{< external href="https://code.habd.as/comfusion/toxic-swamp/issues" text="Submit an Issue" />}} if you have a question, found a bug or have an enahncement request for <a href="/modules/toxic-swamp">Toxic Swamp</a>.</p>
 </section>
 
 <section class="js-hideadvanced">

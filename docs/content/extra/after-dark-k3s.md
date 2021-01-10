@@ -25,5 +25,5 @@ After Dark K3s pairs {{< external "https://k3s.io" "K3s" />}} with {{< external 
 - Manage set-up using Configuration as Code.
 - Integrate with {{< external "https://traefik.io/" "Traefik" />}} for <abbr title="High Availability">HA</abbr> front-ends.
 
-**Repository:** {{< external "https://git.habd.as/teowood/after-dark-k3s-amd64" />}}
+**Repository:** {{< external "https://code.habd.as/teowood/after-dark-k3s-amd64" />}}
 <br>**Mirror:** {{< external "https://git.plaindark.com/teowood/after-dark-k3s-amd64" />}}

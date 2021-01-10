@@ -29,7 +29,7 @@ After Dark includes a portable installation script for quick set-up. Please inst
 {{< highlight sh "linenos=inline" >}}
 {{< include "themes/after-dark/bin/install" >}}
 {{< /highlight >}}
-<link itemprop="codeRepository" href="https://git.habd.as/comfusion/after-dark">
+<link itemprop="codeRepository" href="https://code.habd.as/comfusion/after-dark">
 <meta itemprop="codeSampleType" content="script">
 <meta itemprop="programmingLanguage" content="sh">
 <meta itemprop="runtimePlatform" content="busybox">
@@ -63,7 +63,7 @@ chmod +x install && ./install{{< /highlight >}}
 
     {{< hackcss-alert >}}
     {{< highlight shell >}}# clone source and change to source directory
-git clone https://git.habd.as/comfusion/after-dark.git && cd "$_"
+git clone https://code.habd.as/comfusion/after-dark.git && cd "$_"
 
 # use npm cli to get the release hash
 echo "${$(npm run integrity)#*sha512-}"

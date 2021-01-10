@@ -13,7 +13,7 @@ features = ["related content", "snippets", "section menu"]
 +++
 
 **PhotoSwipe Homepage:** {{< external "http://photoswipe.com" />}}<br>
-**Module Source:** {{< external "https://git.habd.as/comfusion/hall-of-mirrors" />}}
+**Module Source:** {{< external "https://code.habd.as/comfusion/hall-of-mirrors" />}}
 
 ## Demo
 
@@ -27,7 +27,7 @@ Choose a module download source:
 
 - {{< external "https://www.npmjs.com/package/hall-of-mirrors" />}}
 - {{< external "https://www.jsdelivr.com/package/npm/hall-of-mirrors" />}}
-- {{< external "https://git.habd.as/comfusion/hall-of-mirrors" />}}
+- {{< external "https://code.habd.as/comfusion/hall-of-mirrors" />}}
 
 Extract module contents into site `themes` directory:
 
@@ -48,4 +48,4 @@ theme = [
 ]
 {{< /highlight >}}
 
-See {{< external href="https://git.habd.as/comfusion/hall-of-mirrors/src/branch/master/README.md" text="README.md" />}} to confirm you're using the minimum required version of After Dark; and module setup, configuration and usage instructions. If you need help you may {{< external href="https://git.habd.as/comfusion/hall-of-mirrors/issues" text="Submit an Issue" />}} with your question.
+See {{< external href="https://code.habd.as/comfusion/hall-of-mirrors/src/branch/trunk/README.md" text="README.md" />}} to confirm you're using the minimum required version of After Dark; and module setup, configuration and usage instructions. If you need help you may {{< external href="https://code.habd.as/comfusion/hall-of-mirrors/issues" text="Submit an Issue" />}} with your question.

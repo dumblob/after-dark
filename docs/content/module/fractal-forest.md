@@ -13,7 +13,7 @@ features = ["related content", "snippets", "section menu"]
 +++
 
 **BPG Image format Homepage:** {{< external "https://bellard.org/bpg/" />}}<br>
-**Module Source:** {{< external "https://git.habd.as/comfusion/fractal-forest" />}}
+**Module Source:** {{< external "https://code.habd.as/comfusion/fractal-forest" />}}
 
 ## Demo
 
@@ -32,7 +32,7 @@ Choose a module download source:
 
 - {{< external "https://www.npmjs.com/package/fractal-forest" />}}
 - {{< external "https://www.jsdelivr.com/package/npm/fractal-forest" />}}
-- {{< external "https://git.habd.as/comfusion/fractal-forest" />}}
+- {{< external "https://code.habd.as/comfusion/fractal-forest" />}}
 
 Extract module contents into site `themes` directory:
 
@@ -53,4 +53,4 @@ theme = [
 ]
 {{< /highlight >}}
 
-See {{< external href="https://git.habd.as/comfusion/fractal-forest/src/branch/master/README.md" text="README.md" />}} to confirm you're using the minimum required version of After Dark; and module setup, configuration and usage instructions. If you need help you may {{< external href="https://git.habd.as/comfusion/fractal-forest/issues" text="Submit an Issue" />}} with your question.
+See {{< external href="https://code.habd.as/comfusion/fractal-forest/src/branch/trunk/README.md" text="README.md" />}} to confirm you're using the minimum required version of After Dark; and module setup, configuration and usage instructions. If you need help you may {{< external href="https://code.habd.as/comfusion/fractal-forest/issues" text="Submit an Issue" />}} with your question.

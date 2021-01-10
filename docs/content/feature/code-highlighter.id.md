@@ -53,7 +53,7 @@ def hello(client, message):
     message.reply_text("Hello {}".format(message.from_user.first_name))
 {{< /highlight >}}
 
-Tidak menyukai warnanya? Tidak masalah. Gunakan perintah `hugo gen chromastyles` untuk {{< external href="https://gohugo.io/content-management/syntax-highlighting/#generate-syntax-highlighter-css" text="generate your own" />}} `syntax.css` stylesheet dari {{< external href="https://help.farbox.com/pygments.html" text="style gallery" />}} dan menyesuaikannya menggunakan tujuan umum {{< external href="https://git.habd.as/comfusion/atom-one-chroma" text="Atom One Chroma" />}} tema rol sintaks.
+Tidak menyukai warnanya? Tidak masalah. Gunakan perintah `hugo gen chromastyles` untuk {{< external href="https://gohugo.io/content-management/syntax-highlighting/#generate-syntax-highlighter-css" text="generate your own" />}} `syntax.css` stylesheet dari {{< external href="https://help.farbox.com/pygments.html" text="style gallery" />}} dan menyesuaikannya menggunakan tujuan umum {{< external href="https://code.habd.as/comfusion/atom-one-chroma" text="Atom One Chroma" />}} tema rol sintaks.
 
 Dan jika anda benar-benar berani berusaha mengapa tidak membuat beberapa seni ASCII yang dapat dieksekusi yang mewakili nama permainan yang anda implementasikan dalam bahasa yang digunakan:
 
